@@ -9,4 +9,4 @@ Kaydedilen parola şimdilik base64 ile şifrelenerek bilgisayarınızda tutulur
 
 Test video
 ---------------------
-https://www.youtube.com/watch?v=wmQXHNfdS-0
+https://www.youtube.com/watch?v=44UYcPQyDwQ
